@@ -1,0 +1,92 @@
+body{
+background-color:#F5EAEA;
+    text-align:center;
+    margin=0;
+}
+h1{
+    margin :50px auto 0px auto;
+    font-family: 'Sacramento', cursive;
+    font-size:5.625rem;
+    color:#66BFBF;
+
+
+
+    }
+
+h2{
+font-family: 'Montserrat', sans-serif;
+font-size:2.5rem;
+color:#C58940;
+font-weight:normal;
+}
+h3{
+font-family: 'Montserrat', sans-serif;
+color:#11999E;
+}
+.title{
+position:inline;
+width:20%;
+margin:auto;
+
+}
+.top_container{
+
+
+
+}
+
+form{
+padding-top:10px;
+position:inline;
+width:20rem;
+margin:auto ;
+}
+.form_input{
+
+width:15rem;
+padding:8px 0;
+
+}
+.form_input:focus{
+
+border: 5px solid #D5EEFF;
+}
+.logo_pic{
+width:20%;
+padding-top:50px;
+
+
+}
+
+
+.myButton {
+margin-top:10px;
+	box-shadow: 0px 10px 14px -7px #276873;
+	background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+	background-color:#599bb3;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:12px 85px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #3d768a;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+	background-color:#408c99;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.last_paragraph{
+                margin-bottom:0;
+                color:#C58940;
+                font-size:0.75rem;
+                padding:40px 0;
+
+}
